@@ -1,0 +1,17 @@
+E:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\Selenium.Utils.dll
+E:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\Selenium.Utils.pdb
+E:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\WebDriver.dll
+E:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\WebDriver.xml
+E:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CoreCompileInputs.cache
+E:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CopyComplete
+E:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.dll
+E:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.pdb
+D:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\Selenium.Utils.dll
+D:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\Selenium.Utils.pdb
+D:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\WebDriver.dll
+D:\Projetos\AutomacaoRobo\Selenium.Utils\bin\Debug\WebDriver.xml
+D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.csprojAssemblyReference.cache
+D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CoreCompileInputs.cache
+D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CopyComplete
+D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.dll
+D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.pdb
