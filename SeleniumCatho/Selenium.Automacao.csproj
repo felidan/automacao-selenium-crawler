@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CoreAutomacao.cs" />
+    <Compile Include="Screens\InfoJobsScreen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Screens\Base\BaseScreen.cs" />
     <Compile Include="Screens\CathoScreen.cs" />

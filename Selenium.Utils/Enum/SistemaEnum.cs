@@ -2,6 +2,7 @@
 {
     public enum SistemaEnum
     {
-        Catho
+        Catho,
+        InfoJobs
     }
 }

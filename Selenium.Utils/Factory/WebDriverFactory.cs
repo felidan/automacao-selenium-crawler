@@ -27,6 +27,9 @@ namespace Selenium.Utils.Factory
                     {
                         chromeOptions.AddArgument("--headless");
                     }
+                    
+                    chromeOptions.AddUserProfilePreference("profile.default_content_setting_values.notifications", 2);
+                    //chromeOptions.AddArgument("--use-fake-ui-for-media-stream");
 
                     webDriver = new ChromeDriver($"{caminho}{versao}", chromeOptions);
                     break;

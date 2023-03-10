@@ -28,7 +28,7 @@ namespace SeleniumCatho.Screens.Base
             }
             catch(Exception ex)
             {
-                LogService.AdicionarLog(new Response(ex.Message, LevelLogEnum.Erro));
+                LogService.AdicionarLog(new Response(ex.Message, LevelLogEnum.Erro, ex));
             }
             finally
             {
@@ -49,6 +49,12 @@ namespace SeleniumCatho.Screens.Base
             wait.Until(ExpectedConditions.ElementIsVisible(by));
         }
 
+        public void AguardarBotao(TimeSpan timeOut, By by)
+        {
+            WebDriverWait wait = new WebDriverWait(_webDriver, timeOut);
+            wait.Until(ExpectedConditions.ElementToBeClickable(by));
+        }
+
         public void PrintTela(string path, string nome)
         {
             if (!Directory.Exists(path))
@@ -64,7 +70,7 @@ namespace SeleniumCatho.Screens.Base
         public void Finalizar()
         {
             _webDriver.Quit();
-            _webDriver = null;
+            _webDriver.Dispose();
         }
     }
 }

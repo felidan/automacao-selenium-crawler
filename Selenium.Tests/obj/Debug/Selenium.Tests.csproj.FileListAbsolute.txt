@@ -26,3 +26,17 @@ D:\Projetos\AutomacaoRobo\Selenium.Tests\obj\Debug\Selenium.Tests.csproj.CoreCom
 D:\Projetos\AutomacaoRobo\Selenium.Tests\obj\Debug\Selenium.Tests.csproj.CopyComplete
 D:\Projetos\AutomacaoRobo\Selenium.Tests\obj\Debug\Selenium.Tests.exe
 D:\Projetos\AutomacaoRobo\Selenium.Tests\obj\Debug\Selenium.Tests.pdb
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\Selenium.Tests.exe
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\Selenium.Tests.pdb
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\Selenium.Utils.dll
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\SeleniumCatho.dll
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\WebDriver.dll
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\Selenium.Utils.pdb
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\SeleniumCatho.pdb
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\bin\Debug\WebDriver.xml
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\obj\Debug\Selenium.Tests.csprojAssemblyReference.cache
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\obj\Debug\Selenium.Tests.csproj.CoreCompileInputs.cache
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\obj\Debug\Selenium.Tests.csproj.CopyComplete
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\obj\Debug\Selenium.Tests.exe
+D:\Projetos\automacao-selenium-crawler\Selenium.Tests\obj\Debug\Selenium.Tests.pdb

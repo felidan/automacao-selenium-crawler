@@ -9,5 +9,7 @@
         public string Beneficios { get; set; }
         public string NomeEmpresa { get; set; }
         public string NacionalidadePorte { get; set; }
+        public string Local { get; set; }
+        public string Link { get; set; }
     }
 }

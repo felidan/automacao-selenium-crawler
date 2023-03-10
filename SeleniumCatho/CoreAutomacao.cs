@@ -22,8 +22,10 @@ namespace SeleniumCatho
                     CathoScreen catho = new CathoScreen(selenium);
                     retorno = catho.Iniciar();
                     break;
-
-                // TODO - Implementar
+                case SistemaEnum.InfoJobs:
+                    InfoJobsScreen infoJobs = new InfoJobsScreen(selenium);
+                    retorno = infoJobs.Iniciar();
+                    break;
             }
 
             if(retorno)

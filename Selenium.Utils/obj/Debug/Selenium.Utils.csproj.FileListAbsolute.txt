@@ -15,3 +15,12 @@ D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CoreCom
 D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CopyComplete
 D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.dll
 D:\Projetos\AutomacaoRobo\Selenium.Utils\obj\Debug\Selenium.Utils.pdb
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\bin\Debug\Selenium.Utils.dll
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\bin\Debug\Selenium.Utils.pdb
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\bin\Debug\WebDriver.dll
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\bin\Debug\WebDriver.xml
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\obj\Debug\Selenium.Utils.csprojAssemblyReference.cache
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CoreCompileInputs.cache
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\obj\Debug\Selenium.Utils.csproj.CopyComplete
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\obj\Debug\Selenium.Utils.dll
+D:\Projetos\automacao-selenium-crawler\Selenium.Utils\obj\Debug\Selenium.Utils.pdb

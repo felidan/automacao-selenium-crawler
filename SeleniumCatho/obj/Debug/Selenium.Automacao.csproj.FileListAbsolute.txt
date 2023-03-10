@@ -22,3 +22,15 @@ D:\Projetos\AutomacaoRobo\SeleniumCatho\obj\Debug\Selenium.Automacao.csproj.Core
 D:\Projetos\AutomacaoRobo\SeleniumCatho\obj\Debug\Selenium.Automacao.csproj.CopyComplete
 D:\Projetos\AutomacaoRobo\SeleniumCatho\obj\Debug\SeleniumCatho.dll
 D:\Projetos\AutomacaoRobo\SeleniumCatho\obj\Debug\SeleniumCatho.pdb
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\bin\Debug\SeleniumCatho.dll
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\bin\Debug\SeleniumCatho.pdb
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\bin\Debug\Selenium.Utils.dll
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\bin\Debug\WebDriver.dll
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\bin\Debug\Selenium.Utils.pdb
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\bin\Debug\WebDriver.xml
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\obj\Debug\Selenium.Automacao.csprojAssemblyReference.cache
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\obj\Debug\Selenium.Automacao.csproj.CoreCompileInputs.cache
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\obj\Debug\Selenium.Automacao.csproj.CopyComplete
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\obj\Debug\SeleniumCatho.dll
+D:\Projetos\automacao-selenium-crawler\SeleniumCatho\obj\Debug\SeleniumCatho.pdb
